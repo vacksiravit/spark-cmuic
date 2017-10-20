@@ -8,3 +8,4 @@ from pyspark.sql import SparkSession
 
 lines = sc.textFile("salary.txt")
 lineLengths = lines.map(lambda s: len(s))
+print("Siravit Sirimart")
