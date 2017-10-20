@@ -1,0 +1,5 @@
+id,Name,Salary,Position,Tel,Email
+1,mr.a,10000,creative,0812345671,a@askme.co.th
+2,mr.b,15000,creative,0812345672,b@askme.co.th
+3,mr.c,20000,science,0812345673,c@askme.co.th
+3,mr.d,25000,manager,0812345674,d@asekmc.o.th
