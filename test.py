@@ -6,5 +6,5 @@ from operator import add
 
 from pyspark.sql import SparkSession
 
-lines = sc.textFile("employee.txt")
+lines = sc.textFile("salary.txt")
 lineLengths = lines.map(lambda s: len(s))
